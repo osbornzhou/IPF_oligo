@@ -1,0 +1,17 @@
+﻿software,version_or_note
+Python,3.12.13
+pandas,3.0.1
+numpy,2.3.5
+openpyxl,3.1.5
+matplotlib,not installed in bundled Python; used in original analysis environment where applicable
+Pillow,12.2.0
+scipy,not installed in bundled Python; used in original analysis environment where applicable
+pypdf,6.10.0
+scikit-learn,1.8.0
+joblib,used to serialize final model artifacts; exact package version not encoded separately in artifacts
+R,4.6.0
+limma,3.68.3
+edgeR,4.10.0
+clusterProfiler,4.20.0
+ReactomePA,1.56.0
+org.Hs.eg.db,3.23.1
