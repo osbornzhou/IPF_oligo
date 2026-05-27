@@ -1,0 +1,100 @@
+[
+  {
+    "file": "Additional_file_1_dataset_metadata_and_qc.xlsx",
+    "title": "Dataset metadata and QC",
+    "description": "Bulk, miRNA, and single-cell annotation and expression-matrix QC tables.",
+    "path": "manuscript/additional_files/Additional_file_1_dataset_metadata_and_qc.xlsx",
+    "bytes": 203181
+  },
+  {
+    "file": "Additional_file_2_differential_expression_results.xlsx",
+    "title": "Differential expression results",
+    "description": "Annotated differential-expression summaries and QC outputs.",
+    "path": "manuscript/additional_files/Additional_file_2_differential_expression_results.xlsx",
+    "bytes": 8153827
+  },
+  {
+    "file": "Additional_file_3_robust_candidates.xlsx",
+    "title": "Robust mRNA and miRNA candidates",
+    "description": "Discovery-validation robust candidate tables, direction matrices, and dataset-specific validation-support rules.",
+    "path": "manuscript/additional_files/Additional_file_3_robust_candidates.xlsx",
+    "bytes": 198312
+  },
+  {
+    "file": "Additional_file_4_mirna_mrna_axes.xlsx",
+    "title": "miRNA-mRNA candidate axes",
+    "description": "miRTarBase-derived opposite-direction candidate axes, evidence grading, exact-axis support table, target-set stress tests, hsa-miR-375 target release-like score, relaxed exploratory axes, and paired-correlation audit.",
+    "path": "manuscript/additional_files/Additional_file_4_mirna_mrna_axes.xlsx",
+    "bytes": 42204
+  },
+  {
+    "file": "Additional_file_5_enrichment_results.xlsx",
+    "title": "GO/KEGG/Reactome enrichment results",
+    "description": "Enrichment results, gene-set inputs, and enrichment QC tables.",
+    "path": "manuscript/additional_files/Additional_file_5_enrichment_results.xlsx",
+    "bytes": 2963546
+  },
+  {
+    "file": "Additional_file_6_string_ppi_results.xlsx",
+    "title": "STRING PPI and hub results",
+    "description": "STRING mapping, network nodes, edges, hub metrics, and QC tables.",
+    "path": "manuscript/additional_files/Additional_file_6_string_ppi_results.xlsx",
+    "bytes": 116553
+  },
+  {
+    "file": "Additional_file_7_machine_learning_results.xlsx",
+    "title": "Machine-learning performance, feature stability, and actionability",
+    "description": "Model performance, feature-selection stability, predictions, hyperparameter grids, final Elastic Net specification, target-prioritization outputs, oligonucleotide actionability index, and actionability weight-sensitivity analysis.",
+    "path": "manuscript/additional_files/Additional_file_7_machine_learning_results.xlsx",
+    "bytes": 2996345
+  },
+  {
+    "file": "Additional_file_8_machine_learning_sensitivity.xlsx",
+    "title": "Machine-learning sensitivity analyses",
+    "description": "Leave-one-validation-cohort sensitivity, random robust-gene panel baseline outputs, disease-control score stress test, matched random discovery-feature panel baseline, non-perfect-cohort summary, and cohort-adjusted score test.",
+    "path": "manuscript/additional_files/Additional_file_8_machine_learning_sensitivity.xlsx",
+    "bytes": 208710
+  },
+  {
+    "file": "Additional_file_9_single_cell_localization.xlsx",
+    "title": "Single-cell localization summaries",
+    "description": "Single-cell target-expression summaries, donor-aware pseudobulk validation, broad-celltype mapping, localization tables, and validation QC.",
+    "path": "manuscript/additional_files/Additional_file_9_single_cell_localization.xlsx",
+    "bytes": 1786238
+  },
+  {
+    "file": "Additional_file_10_mechanistic_extension.xlsx",
+    "title": "Mechanistic extension outputs",
+    "description": "Marker scores, coexpression modules, curated ligand-receptor scoring, coexpression-neighborhood perturbation-priority proxy, and TNIK bridge tables.",
+    "path": "manuscript/additional_files/Additional_file_10_mechanistic_extension.xlsx",
+    "bytes": 174444
+  },
+  {
+    "file": "Additional_file_11_code_archive.zip",
+    "title": "Analysis code archive",
+    "description": "Numbered analysis scripts, README file, software environment notes, and reproducibility instructions.",
+    "path": "manuscript/additional_files/Additional_file_11_code_archive.zip",
+    "bytes": 177464
+  },
+  {
+    "file": "Additional_file_12_pseudobulk_donor_plots.pdf",
+    "title": "Donor-level pseudobulk plots",
+    "description": "Supplementary donor-level pseudobulk dot/median plots for the core single-cell validation comparisons shown in Figure 6C.",
+    "path": "manuscript/additional_files/Additional_file_12_pseudobulk_donor_plots.pdf",
+    "bytes": 258363
+  },
+  {
+    "file": "Additional_file_13_auc_stress_tests.pdf",
+    "title": "AUC disease-state stress-test plots",
+    "description": "Supplementary disease-control score distribution and matched random discovery-feature panel baseline for external ML boundary assessment.",
+    "path": "manuscript/additional_files/Additional_file_13_auc_stress_tests.pdf",
+    "bytes": 171088
+  },
+  {
+    "file": "Additional_file_14_mirna_program_stress_test.pdf",
+    "title": "miRNA target-program stress-test plots",
+    "description": "Supplementary miRTarBase target-set stress test and hsa-miR-375 target release-like score used to bound miRNA interpretation.",
+    "path": "manuscript/additional_files/Additional_file_14_mirna_program_stress_test.pdf",
+    "bytes": 157777
+  }
+]
