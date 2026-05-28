@@ -1,0 +1,49 @@
+﻿sample_id,stress_group,included_excluded,original_disease_label,refit_final_panel_score
+GSM2978752,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9423846685477044
+GSM2978753,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9946490985090476
+GSM2978754,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9918546693762897
+GSM2978755,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9446563955560114
+GSM2978756,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9877142744777515
+GSM2978757,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9589645481462424
+GSM2978758,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9380859772181097
+GSM2978759,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.970439977862458
+GSM2978760,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9718392158601971
+GSM2978761,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9841584501091926
+GSM2978762,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9513717809006088
+GSM2978763,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9083835127736016
+GSM2978764,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9957332098664883
+GSM2978765,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9792304818642857
+GSM2978766,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9808812341527047
+GSM2978767,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9885209132496628
+GSM2978768,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.6792392291079363
+GSM2978769,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9693262535441216
+GSM2978770,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9978395639732984
+GSM2978771,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9605562885785994
+GSM2978772,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9162346111774561
+GSM2978773,IPF,included,group=IPF | subgroup=IPF | tissue=Lung tissue,0.9872247012767846
+GSM2978774,NSIP,excluded,group=Exclude | subgroup=NSIP | tissue=Lung tissue,0.6096227573516966
+GSM2978775,NSIP,excluded,group=Exclude | subgroup=NSIP | tissue=Lung tissue,0.9678006689406496
+GSM2978776,NSIP,excluded,group=Exclude | subgroup=NSIP | tissue=Lung tissue,0.7179277234351705
+GSM2978777,NSIP,excluded,group=Exclude | subgroup=NSIP | tissue=Lung tissue,0.9725314344504206
+GSM2978778,NSIP,excluded,group=Exclude | subgroup=NSIP | tissue=Lung tissue,0.9910091144433759
+GSM2978779,NSIP,excluded,group=Exclude | subgroup=NSIP | tissue=Lung tissue,0.9717926972511819
+GSM2978780,NSIP,excluded,group=Exclude | subgroup=NSIP | tissue=Lung tissue,0.7281339195363533
+GSM2978781,NSIP,excluded,group=Exclude | subgroup=NSIP | tissue=Lung tissue,0.9751182866172937
+GSM2978782,NSIP,excluded,group=Exclude | subgroup=NSIP | tissue=Lung tissue,0.8611272189333417
+GSM2978783,NSIP,excluded,group=Exclude | subgroup=NSIP | tissue=Lung tissue,0.8928334800856976
+GSM2978784,Mixed IPF-NSIP,excluded,group=Exclude | subgroup=IPF-NSIP | tissue=Lung tissue,0.8924589157782347
+GSM2978785,Mixed IPF-NSIP,excluded,group=Exclude | subgroup=IPF-NSIP | tissue=Lung tissue,0.9984595045144207
+GSM2978786,Mixed IPF-NSIP,excluded,group=Exclude | subgroup=IPF-NSIP | tissue=Lung tissue,0.9963510527224337
+GSM2978787,Mixed IPF-NSIP,excluded,group=Exclude | subgroup=IPF-NSIP | tissue=Lung tissue,0.9965251136110503
+GSM2978788,Mixed IPF-NSIP,excluded,group=Exclude | subgroup=IPF-NSIP | tissue=Lung tissue,0.7219381988962038
+GSM2978789,Normal control,included,group=Control | subgroup=control | tissue=Lung tissue,0.09846960516604507
+GSM2978790,Normal control,included,group=Control | subgroup=control | tissue=Lung tissue,0.06850306376721413
+GSM2978791,Normal control,included,group=Control | subgroup=control | tissue=Lung tissue,0.1634921620026245
+GSM2978792,Normal control,included,group=Control | subgroup=control | tissue=Lung tissue,0.09539433290129573
+GSM2978793,Normal control,included,group=Control | subgroup=control | tissue=Lung tissue,0.08154976303302817
+GSM2978794,Normal control,included,group=Control | subgroup=control | tissue=Lung tissue,0.11516442470924032
+GSM2978795,Normal control,included,group=Control | subgroup=control | tissue=Lung tissue,0.04643802927165227
+GSM2978796,Normal control,included,group=Control | subgroup=control | tissue=Lung tissue,0.3636045935832565
+GSM2978797,Normal control,included,group=Control | subgroup=control | tissue=Lung tissue,0.07763969020182934
+GSM2978798,Normal control,included,group=Control | subgroup=control | tissue=Lung tissue,0.09520189552050867
+GSM2978799,Normal control,included,group=Control | subgroup=control | tissue=Lung tissue,0.0792787647407656

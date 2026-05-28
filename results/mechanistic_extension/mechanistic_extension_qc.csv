@@ -1,0 +1,2 @@
+﻿bulk_samples_scored,gse32537_modules,lr_interactions_scored,perturbation_priority_targets_scored,tnik_evidence_rows,qc1_bulk_module_pass,qc2_single_cell_lr_pass,qc3_tnik_not_overclaimed_pass,triple_qc_pass
+495,10,934,7,8,True,True,True,True

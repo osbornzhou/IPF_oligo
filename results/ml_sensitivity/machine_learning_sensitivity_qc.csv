@@ -1,0 +1,7 @@
+﻿check,pass,value
+validation_cohorts_present,True,GSE110147;GSE150910;GSE53845;GSE92592
+leave_one_rows,True,4
+random_panel_count,True,500
+observed_panel_present,True,1
+auc_values_in_range,True,0_to_1
+empirical_p_computed,True,0.0938;0.0878

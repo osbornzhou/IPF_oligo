@@ -1,0 +1,15 @@
+﻿candidate_mirna,mirna_direction,target_source,target_genes_in_background,upregulated_robust_mrna_targets,upregulated_robust_mrna_foreground,gene_background,odds_ratio,fisher_hypergeom_p,target_genes_overlapping_upregulated_robust_mRNAs,fdr_bh,interpretation
+hsa-miR-375,down,miRTarBase_exact,250,3,214,9928,0.6330205124531366,0.909737493720205,CLDN1;MNS1;RPGRIP1L,1.0,no FDR-supported target-set enrichment in this background; retain as hypothesis-generating
+hsa-miR-375,down,miRTarBase_arm_recoverable,250,3,214,9928,0.6330205124531366,0.909737493720205,CLDN1;MNS1;RPGRIP1L,1.0,no FDR-supported target-set enrichment in this background; retain as hypothesis-generating
+hsa-miR-30d,down,miRTarBase_exact,0,0,214,9928,,,,,no FDR-supported target-set enrichment in this background; retain as hypothesis-generating
+hsa-miR-30d,down,miRTarBase_arm_recoverable,214,3,214,9928,0.7435854445059213,0.8446822994807544,C6;FAM81B;SIX4,1.0,no FDR-supported target-set enrichment in this background; retain as hypothesis-generating
+hsa-miR-30a,down,miRTarBase_exact,0,0,214,9928,,,,,no FDR-supported target-set enrichment in this background; retain as hypothesis-generating
+hsa-miR-30a,down,miRTarBase_arm_recoverable,395,7,214,9928,0.8677024701121087,0.7536512414373856,C6;CDH2;FAM81B;LRRN1;PTGFRN;SERPINB5;SIX4,1.0,no FDR-supported target-set enrichment in this background; retain as hypothesis-generating
+hsa-miR-423-5p,down,miRTarBase_exact,114,0,214,9928,0.19544792907238323,1.0,,1.0,no FDR-supported target-set enrichment in this background; retain as hypothesis-generating
+hsa-miR-423-5p,down,miRTarBase_arm_recoverable,191,0,214,9928,0.11592324124961201,1.0,,1.0,no FDR-supported target-set enrichment in this background; retain as hypothesis-generating
+hsa-miR-92a,down,miRTarBase_exact,0,0,214,9928,,,,,no FDR-supported target-set enrichment in this background; retain as hypothesis-generating
+hsa-miR-92a,down,miRTarBase_arm_recoverable,564,6,214,9928,0.5111091073425951,0.984697914118539,CCDC113;CHST9;GOLM1;LTBP1;PTGFRN;TP63,1.0,no FDR-supported target-set enrichment in this background; retain as hypothesis-generating
+hsa-miR-203,down,miRTarBase_exact,0,0,214,9928,,,,,no FDR-supported target-set enrichment in this background; retain as hypothesis-generating
+hsa-miR-203,down,miRTarBase_arm_recoverable,0,0,214,9928,,,,,no FDR-supported target-set enrichment in this background; retain as hypothesis-generating
+hsa-miR-141,down,miRTarBase_exact,0,0,214,9928,,,,,no FDR-supported target-set enrichment in this background; retain as hypothesis-generating
+hsa-miR-141,down,miRTarBase_arm_recoverable,116,3,214,9928,1.399912519136439,0.4584168908506887,CLDN1;RSPH4A;SERPINB5,1.0,no FDR-supported target-set enrichment in this background; retain as hypothesis-generating

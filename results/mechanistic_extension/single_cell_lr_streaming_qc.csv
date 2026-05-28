@@ -1,0 +1,3 @@
+﻿series_id,genes_in_reference,barcodes_in_reference,metadata_cells_ipf_control,barcodes_with_metadata,mtx_rows,mtx_cols,mtx_nnz_header,mtx_entries_streamed,target_genes_requested,target_genes_found,target_entries_streamed,negative_values,qc1_metadata_alignment_pass,qc2_matrix_integrity_pass,qc3_result_validity_pass,runtime_seconds,triple_qc_pass
+GSE135893,33694,220213,89326,89326,33694,220213,338061955,338061955,39,39,701702,0,True,True,True,152.47,True
+GSE136831,45947,312928,243472,243472,45947,312928,692789348,692789348,39,38,1872533,0,True,True,True,319.55,True

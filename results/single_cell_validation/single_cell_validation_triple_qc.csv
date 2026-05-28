@@ -1,0 +1,4 @@
+﻿series_id,genes_in_reference,barcodes_in_reference,metadata_cells_ipf_control,barcodes_with_metadata,mtx_rows,mtx_cols,mtx_nnz_header,mtx_entries_streamed,target_genes_requested,target_genes_found,target_genes_missing,target_entries_streamed,negative_values,group_count,broad_celltype_count,fine_celltype_count,runtime_seconds,qc1_metadata_alignment_pass,qc2_matrix_integrity_pass,qc3_result_validity_pass,triple_qc_pass,note
+GSE135893,33694,220213,89326,89326,33694,220213,338061955,338061955,59,59,0,476953,0,2,4,31,163.81,True,True,True,True,
+GSE136831,45947,312928,243472,243472,45947,312928,692789348,692789348,59,58,1,812717,0,2,6,98,330.19,True,True,True,True,
+GSE122960,0,0,0,0,0,0,0,0,59,0,59,0,0,0,0,0,0.0,False,False,False,False,Cell-level expression matrix not available locally; excluded from single-cell expression validation.

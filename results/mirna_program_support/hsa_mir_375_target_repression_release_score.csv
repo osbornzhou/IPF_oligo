@@ -1,0 +1,2 @@
+﻿candidate_mirna,target_source,targets_in_discovery_mrna_background,mean_target_discovery_logFC,mean_non_target_discovery_logFC,target_minus_non_target_mean_logFC,permutation_iterations,one_sided_permutation_p_target_greater_than_background,targets_upregulated_fraction,interpretation
+hsa-miR-375,miRTarBase_arm_recoverable,250,0.003868285613445506,0.04482383957151382,-0.04095555395806831,5000,0.9324135172965407,0.492,program-level derepression support if targets show higher discovery logFC than non-target genes

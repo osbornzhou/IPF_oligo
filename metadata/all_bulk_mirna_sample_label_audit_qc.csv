@@ -1,0 +1,22 @@
+﻿series_id,data_type,included_excluded,final_analysis_label,sample_count
+GSE110147,bulk mRNA,excluded,excluded,15
+GSE110147,bulk mRNA,included,Control,11
+GSE110147,bulk mRNA,included,IPF,22
+GSE150910,bulk mRNA,excluded,excluded,82
+GSE150910,bulk mRNA,included,Control,103
+GSE150910,bulk mRNA,included,IPF,103
+GSE21394,miRNA,excluded,excluded,10
+GSE21394,miRNA,included,Control,6
+GSE21394,miRNA,included,IPF,9
+GSE27430,miRNA,included,Control,12
+GSE27430,miRNA,included,IPF,13
+GSE32537,bulk mRNA,excluded,excluded,48
+GSE32537,bulk mRNA,included,Control,50
+GSE32537,bulk mRNA,included,IPF,119
+GSE32538,miRNA,excluded,excluded,36
+GSE32538,miRNA,included,Control,50
+GSE32538,miRNA,included,IPF,106
+GSE53845,bulk mRNA,included,Control,8
+GSE53845,bulk mRNA,included,IPF,40
+GSE92592,bulk mRNA,included,Control,19
+GSE92592,bulk mRNA,included,IPF,20

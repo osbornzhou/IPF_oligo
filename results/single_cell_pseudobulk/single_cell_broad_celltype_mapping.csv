@@ -1,0 +1,130 @@
+﻿series_id,broad_celltype,fine_celltype,groups_observed,max_cells_in_group,total_rows,unique_genes,aggregation_use
+GSE135893,Endothelial,Endothelial Cells,Control;IPF,3496,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Endothelial,Lymphatic Endothelial Cells,Control;IPF,584,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Epithelial,AT1,Control;IPF,472,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Epithelial,AT2,Control;IPF,4393,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Epithelial,Basal,Control;IPF,1786,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Epithelial,Ciliated,Control;IPF,11857,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Epithelial,Differentiating Ciliated,Control;IPF,1057,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Epithelial,KRT5-/KRT17+,Control;IPF,374,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Epithelial,MUC5AC+ High,Control;IPF,75,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Epithelial,MUC5B+,Control;IPF,1940,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Epithelial,Proliferating Epithelial Cells,Control;IPF,222,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Epithelial,SCGB3A2+,Control;IPF,2824,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Epithelial,SCGB3A2+ SCGB1A1+,Control;IPF,854,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Epithelial,Transitional AT2,Control;IPF,581,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Immune,B Cells,Control;IPF,550,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Immune,Macrophages,Control;IPF,16507,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Immune,Mast Cells,Control;IPF,360,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Immune,Monocytes,Control;IPF,2854,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Immune,NK Cells,Control;IPF,957,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Immune,Plasma Cells,Control;IPF,265,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Immune,Proliferating Macrophages,Control;IPF,813,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Immune,Proliferating T Cells,Control;IPF,301,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Immune,T Cells,Control;IPF,2829,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Immune,cDCs,Control;IPF,1061,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Immune,pDCs,Control;IPF,109,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Mesenchymal,Fibroblasts,Control;IPF,152,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Mesenchymal,HAS1 High Fibroblasts,IPF,179,59,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Mesenchymal,Mesothelial Cells,Control;IPF,137,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Mesenchymal,Myofibroblasts,Control;IPF,813,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Mesenchymal,PLIN2+ Fibroblasts,Control;IPF,1167,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE135893,Mesenchymal,Smooth Muscle Cells,Control;IPF,567,118,59,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Endothelial,Lymphatic-Endothelial,Control;IPF,973,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Endothelial,Vascular-Endothelial_A,Control;IPF,430,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Endothelial,Vascular-Endothelial_B,Control;IPF,494,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Endothelial,Vascular-Endothelial_C,Control;IPF,330,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Endothelial,Vascular-Endothelial_D,Control;IPF,206,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Endothelial,Vascular-Endothelial_E,Control;IPF,1817,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Endothelial,Vascular-Endothelial_E_MT-tRNAs,IPF,102,58,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,ATI,Control;IPF,502,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,ATII_High-Surfactants,Control;IPF,1894,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,ATII_Low-Surfactants,Control;IPF,760,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,ATII_Low-Surfactants_SubjSpec,Control,1,58,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,Assorted_Epithelial_MT-tRNAs,Control,56,58,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,Basal,Control;IPF,1472,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,Ciliated,Control;IPF,6696,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,Ciliated_CellCycle,Control;IPF,527,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,Ciliated_CellCycle_MT-tRNAs,Control;IPF,103,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,Ciliated_FOXN4+,Control;IPF,25,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,Ciliated_MT-tRNAs,Control;IPF,214,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,Club,Control;IPF,1741,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,Club_CellCycle,Control;IPF,114,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,Goblet_A,Control;IPF,187,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,Goblet_B,Control;IPF,810,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,Goblet_MT-tRNAs,Control;IPF,47,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,Ionocyte,Control;IPF,23,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,Mesothelial,Control;IPF,233,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,Mystery_Disease_Epithelial,IPF,448,58,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Epithelial,Neuroendocrine,Control;IPF,17,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Lymphoid,B,Control;IPF,4399,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Lymphoid,B_Plasma,Control;IPF,213,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Lymphoid,B_Plasma_LowInfo,Control;IPF,19,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Lymphoid,Innate_lymphoid_A,Control;IPF,276,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Lymphoid,Innate_lymphoid_B,Control;IPF,169,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Lymphoid,NK,Control;IPF,4007,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Lymphoid,T,Control;IPF,5088,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Lymphoid,T_Cytotoxic_A,Control;IPF,2691,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Lymphoid,T_Cytotoxic_B,Control;IPF,831,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Lymphoid,T_Cytotoxic_C,Control;IPF,2774,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Lymphoid,T_Regulatory_A,Control;IPF,352,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Lymphoid,T_Regulatory_B,Control;IPF,492,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_Assort,Control;IPF,125,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_B_Mac,Control;IPF,143,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_Dend_T,Control;IPF,34,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_Lymphocyte_Secretory,Control;IPF,52,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_Lymphocytes_Ciliated,Control;IPF,109,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_Lymphocytes_Fibroblast,Control;IPF,22,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_Macrophage_Low-Info,Control;IPF,1333,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_Macrophage_LymphEndo,Control;IPF,48,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_Macrophage_Mesothelial,Control;IPF,24,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_Mast_Mac,Control;IPF,58,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_NK_Mac,Control;IPF,105,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_NK_T,Control;IPF,59,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_SMCs_Pericytes,Control;IPF,32,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_Secretory_Ciliated,Control;IPF,254,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_T,Control;IPF,96,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_T_Mac_A,Control;IPF,45,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_T_Mac_B,Control;IPF,183,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_Treg_Mac,Control;IPF,22,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_VE_Stromal,IPF,63,58,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Multiplet,Multiplet_VascEndoB_VascEndoD,Control;IPF,60,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Dendritic_A,Control;IPF,3390,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Dendritic_B,Control;IPF,373,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Dendritic_C,Control;IPF,364,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Dendritic_CellCycle_A,Control;IPF,137,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Dendritic_Langerhans,Control;IPF,282,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Dendritic_MT-tRNAs,Control;IPF,154,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Dendritic_Plasmacytoid,Control;IPF,430,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage,Control;IPF,50644,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_Alveolar,Control;IPF,23820,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_Alveolar_CellCycle_A,Control;IPF,2461,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_Alveolar_CellCycle_B,Control;IPF,1735,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_Alveolar_Outlier_A,Control;IPF,172,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_Alveolar_Outlier_B,Control;IPF,2527,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_Alveolar_Outlier_C,Control;IPF,731,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_Alveolar_Outlier_D,Control;IPF,783,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_Alveolar_Outlier_E,Control;IPF,21,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_Alveolar_Outlier_F,Control;IPF,53,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_CellCycle_A,Control;IPF,842,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_CellCycle_B,Control;IPF,1679,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_CellCycle_MT-tRNAs,IPF,21,58,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_MT-tRNAs,Control;IPF,2577,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_Outlier_A,Control;IPF,3437,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_Outlier_B,Control;IPF,8930,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_Outlier_C,Control;IPF,4210,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_Outlier_D,Control;IPF,1767,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_Outlier_E,Control;IPF,365,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_Outlier_F,Control;IPF,3518,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Macrophage_Outlier_HSPs,Control;IPF,2172,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Mast,Control;IPF,572,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Monocyte,Control;IPF,5989,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Monocyte_MT-tRNAs,Control;IPF,222,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Monocyte_Non-Classical,Control;IPF,1931,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Monocyte_Outlier_B,Control;IPF,154,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Myeloid,Monocyte_Outlier_C,Control;IPF,109,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Stromal,Fibroblast,Control;IPF,1443,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Stromal,Myofibroblast,Control;IPF,2886,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Stromal,Pericyte,Control;IPF,578,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Stromal,Smooth-Muscle,Control;IPF,516,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available
+GSE136831,Stromal,Smooth-Muscle_MT-tRNAs,Control;IPF,40,116,58,used for donor/sample x broad-celltype pseudobulk summaries when donor metadata and matrix coverage were available

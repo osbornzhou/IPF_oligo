@@ -1,0 +1,13 @@
+audit_item,value
+series_title,Gene expression profiling of idiopathic pulmonary fibrosis and non-specific interstitial pneumonia
+source_pubmed_id,30111332
+primary_publication,Cecchini et al. Respiratory Research 2018
+included_ipf_samples,22
+included_control_samples,11
+excluded_nsip_samples,10
+excluded_mixed_ipf_nsip_samples,5
+included_ipf_accessions,GSM2978752;GSM2978753;GSM2978754;GSM2978755;GSM2978756;GSM2978757;GSM2978758;GSM2978759;GSM2978760;GSM2978761;GSM2978762;GSM2978763;GSM2978764;GSM2978765;GSM2978766;GSM2978767;GSM2978768;GSM2978769;GSM2978770;GSM2978771;GSM2978772;GSM2978773
+included_control_accessions,GSM2978789;GSM2978790;GSM2978791;GSM2978792;GSM2978793;GSM2978794;GSM2978795;GSM2978796;GSM2978797;GSM2978798;GSM2978799
+excluded_nsip_accessions,GSM2978774;GSM2978775;GSM2978776;GSM2978777;GSM2978778;GSM2978779;GSM2978780;GSM2978781;GSM2978782;GSM2978783
+excluded_mixed_ipf_nsip_accessions,GSM2978784;GSM2978785;GSM2978786;GSM2978787;GSM2978788
+audit_interpretation,GSE110147 was used as an IPF-vs-normal validation subset; NSIP and mixed IPF-NSIP samples were excluded from the main analysis.

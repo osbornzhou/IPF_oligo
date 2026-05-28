@@ -1,0 +1,6 @@
+﻿series_id,samples,ipf_samples,control_samples,roc_auc,roc_auc_95ci_low,roc_auc_95ci_high,pr_auc,pr_auc_95ci_low,pr_auc_95ci_high,bootstrap_iterations,bootstrap_design
+GSE110147,33,22,11,1.0,1.0,1.0,1.0,1.0,1.0,2000,stratified resampling within IPF and control labels
+GSE150910,206,103,103,0.9095579225186162,0.8678468752945612,0.9476882835328495,0.8212856934295304,0.9535595148617915,0.9862277804129783,2000,stratified resampling within IPF and control labels
+GSE53845,48,40,8,1.0,1.0,1.0,1.0,1.0,1.0,2000,stratified resampling within IPF and control labels
+GSE92592,39,20,19,0.9736842105263158,0.9171052631578948,1.0,0.9976190476190476,0.9856926406926407,1.0,2000,stratified resampling within IPF and control labels
+pooled_external,326,185,141,0.9237109449875407,0.8880750431282346,0.9545332566609163,0.8736863903310017,0.94658395611271,0.979481461706213,2000,stratified resampling within IPF and control labels

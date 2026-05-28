@@ -1,0 +1,2 @@
+﻿model_artifact,external_samples,external_features,pooled_external_auc,top_permutation_feature,calibration_bins,decision_curve_thresholds,qc1_model_artifact_pass,qc2_importance_nonempty_pass,qc3_probability_range_pass,triple_qc_pass
+C:\Users\ussen\Documents\bmc genomics\ipf_oligo_ml\results\models\ml_outputs_discovery_only_mrna\artifacts\elastic_net_final_model.joblib,326,329,0.9237109449875406,GPX3,5,19,True,True,True,True

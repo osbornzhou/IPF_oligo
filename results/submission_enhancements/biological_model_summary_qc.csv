@@ -1,0 +1,2 @@
+﻿modules,priority_table_genes,single_cell_rows_used,exact_axes,qc1_modules_present,qc2_no_arm_claim_as_high_pass,qc3_oligo_angle_present,triple_qc_pass
+5,288,200,3,True,True,True,True

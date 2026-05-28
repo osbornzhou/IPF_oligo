@@ -1,0 +1,6 @@
+gene_set,input_symbols,included_for_enrichment,minimum_required_symbols
+robust_mrna_strict,280,TRUE,5
+robust_mrna_up,214,TRUE,5
+robust_mrna_down,66,TRUE,5
+mirna_mrna_axis_targets_all,16,TRUE,5
+mirna_mrna_axis_targets_exact,3,FALSE,5

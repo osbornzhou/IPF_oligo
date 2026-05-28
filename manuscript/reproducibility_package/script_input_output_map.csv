@@ -1,0 +1,23 @@
+﻿script,purpose,primary_input,primary_output
+01_download_geo.py,Download and organize GEO datasets,data_raw/GEO,dataset folders
+04_merge_annotations_and_check.py,Merge curated annotation and sample matching,data_raw/GEO annotations,metadata/all_bulk_mirna_annotation.csv
+05_extract_expression_matrices.py,Extract expression matrices and matrix QC,GEO matrix files,metadata/expression_matrix_qc.csv
+07_annotate_de_features.py,Map probes/transcripts/miRNA probes,DE feature IDs,results/feature_annotation
+08_select_robust_candidates.py,Discovery-validation robust candidate selection,DE results,results/robust_candidates
+09_integrate_mirna_mrna_targets.py,miRTarBase opposite-direction axis integration,robust mRNA/miRNA; miRTarBase,results/mirna_mrna_axes
+13_train_ml_models.py,Leakage-controlled model training and external validation,feature matrices,results/models/ml_outputs_discovery_only_mrna
+15_single_cell_validation.py,Single-cell localization summaries,single-cell matrices/annotations,results/single_cell_validation
+21_submission_enhancements.py,Evidence grading and integrated priority table,robust/ML/single-cell outputs,results/submission_enhancements
+22_mechanistic_extension_tnik.py,"Module, ligand-receptor proxy, perturbation-priority, TNIK bridge",bulk and single-cell outputs,results/mechanistic_extension
+24_machine_learning_sensitivity.py,ML leave-one-cohort and random robust-panel sensitivity,locked Elastic Net outputs,results/ml_sensitivity
+26_oligonucleotide_actionability_index.py,Perturbation-triage validation-planning score and triage-map figure,integrated priority outputs,results/oligonucleotide_actionability
+27_single_cell_pseudobulk_validation.py,Donor-aware pseudobulk validation for core candidates,single-cell matrices/annotations,results/single_cell_pseudobulk
+29_actionability_weight_sensitivity.py,Perturbation-triage score weight-sensitivity analysis,perturbation-triage score,results/oligonucleotide_actionability
+30_mirna_exact_axis_support_table.py,Exact hsa-miR-375 axis cross-check table,miRNA axes,results/submission_enhancements
+31_build_pseudobulk_figure.py,High-resolution donor-aware pseudobulk figure panel,pseudobulk summaries,results/single_cell_pseudobulk
+32_build_sample_label_audit.py,All-dataset sample-label audit,curated annotations,metadata/all_bulk_mirna_sample_label_audit.csv
+33_build_single_cell_broad_celltype_mapping.py,Broad-celltype mapping for pseudobulk,single-cell annotations,results/single_cell_pseudobulk
+34_build_reproducibility_assets.py,Reproducibility package,project outputs,manuscript/reproducibility_package
+35_strengthen_submission_package.py,"AUC confidence intervals, pseudobulk donor dotplots, and final submission-support notes",locked predictions and pseudobulk outputs,results/models/ml_outputs_discovery_only_mrna; results/single_cell_pseudobulk
+36_boundary_and_mirna_program_support.py,External disease-state boundary tests and miRNA target-program stress tests,"feature matrices, locked predictions, miRTarBase targets",results/ml_stress_tests; results/mirna_program_support
+37_build_editable_main_figures.py,Editable SVG source figures for main Figures 1-6,manuscript figure data tables,manuscript/editable_figures

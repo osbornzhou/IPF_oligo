@@ -1,0 +1,6 @@
+qc_item,value,pass
+sensitivity_scenarios,1008,True
+weight_perturbation_iterations,1000,True
+expected_knockdown_screening_present,True,True
+knockdown_screening_top10_frequency_ge_0_95,True,True
+knockdown_screening_has_nonzero_top6_frequency,True,True

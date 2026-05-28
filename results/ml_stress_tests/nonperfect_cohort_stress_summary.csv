@@ -1,0 +1,2 @@
+﻿stress_test,retained_cohorts,excluded_cohorts,mean_roc_auc,mean_pr_auc,mean_balanced_accuracy,interpretation
+exclude_validation_cohorts_with_perfect_roc_auc,GSE150910;GSE92592,GSE110147;GSE53845,0.941621066522466,0.9287955785470928,0.9316747572815534,summary after removing validation cohorts with perfect ROC AUC; used to contextualize high external discrimination

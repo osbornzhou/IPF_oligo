@@ -1,0 +1,11 @@
+﻿series_id,broad_celltype,fine_celltypes,rows
+GSE135893,Endothelial,2,2
+GSE135893,Epithelial,12,12
+GSE135893,Immune,11,11
+GSE135893,Mesenchymal,6,6
+GSE136831,Endothelial,7,7
+GSE136831,Epithelial,20,20
+GSE136831,Lymphoid,12,12
+GSE136831,Multiplet,20,20
+GSE136831,Myeloid,34,34
+GSE136831,Stromal,5,5

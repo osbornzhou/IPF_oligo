@@ -1,0 +1,4 @@
+series_id,xlsx_path,sample_rows,cell_rows,blank_cells
+GSE122960,C:\Users\ussen\Documents\bmc genomics\ipf_oligo_ml\metadata\single_cell\xlsx\GSE122960_single_cell_annotation.xlsx,17,1,0
+GSE135893,C:\Users\ussen\Documents\bmc genomics\ipf_oligo_ml\metadata\single_cell\xlsx\GSE135893_single_cell_annotation.xlsx,43,114396,0
+GSE136831,C:\Users\ussen\Documents\bmc genomics\ipf_oligo_ml\metadata\single_cell\xlsx\GSE136831_single_cell_annotation.xlsx,107,312928,0

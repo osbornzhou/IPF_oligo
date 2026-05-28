@@ -1,0 +1,16 @@
+﻿field,value
+final_model,Elastic Net logistic regression
+training_dataset,GSE32537
+external_validation_datasets,GSE110147;GSE150910;GSE53845;GSE92592
+feature_universe,329 common discovery-only mRNA features
+final_selected_panel_size,25 genes
+imputation,SimpleImputer(strategy='median')
+scaling,StandardScaler
+feature_selection,"SelectKBest(f_classif), final k=50 in final fitted artifact"
+classifier,"LogisticRegression(penalty='elasticnet', solver='saga', class_weight='balanced', max_iter=8000)"
+final_C,0.03
+final_l1_ratio,0.2
+random_state,20260524 for main ML; 20260525 for random-panel sensitivity
+outer_cv,"RepeatedStratifiedKFold, 5 folds x 10 repeats"
+inner_cv,"StratifiedKFold, 3 folds for nested tuning; 5 folds for final refit tuning"
+final_model_artifact,results/models/ml_outputs_discovery_only_mrna/artifacts/elastic_net_final_model.joblib

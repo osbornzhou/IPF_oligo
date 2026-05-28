@@ -1,0 +1,36 @@
+﻿signature_name,gene_symbol,in_our_final_panel,reference,url
+metabolism_demrg_frontiers_2023,ENPP3,False,Identification and validation of metabolism-related hub genes in idiopathic pulmonary fibrosis,https://pmc.ncbi.nlm.nih.gov/articles/PMC10010493/
+metabolism_demrg_frontiers_2023,ENTPD1,False,Identification and validation of metabolism-related hub genes in idiopathic pulmonary fibrosis,https://pmc.ncbi.nlm.nih.gov/articles/PMC10010493/
+metabolism_demrg_frontiers_2023,PDE7B,True,Identification and validation of metabolism-related hub genes in idiopathic pulmonary fibrosis,https://pmc.ncbi.nlm.nih.gov/articles/PMC10010493/
+metabolism_demrg_frontiers_2023,GPX3,True,Identification and validation of metabolism-related hub genes in idiopathic pulmonary fibrosis,https://pmc.ncbi.nlm.nih.gov/articles/PMC10010493/
+metabolism_demrg_frontiers_2023,PNMT,False,Identification and validation of metabolism-related hub genes in idiopathic pulmonary fibrosis,https://pmc.ncbi.nlm.nih.gov/articles/PMC10010493/
+metabolism_demrg_frontiers_2023,POLR3H,False,Identification and validation of metabolism-related hub genes in idiopathic pulmonary fibrosis,https://pmc.ncbi.nlm.nih.gov/articles/PMC10010493/
+ann_six_gene_scirep_2023,CDH3,True,Artificial neural network identified the significant genes to distinguish idiopathic pulmonary fibrosis,https://www.nature.com/articles/s41598-023-28536-w
+ann_six_gene_scirep_2023,DIO2,False,Artificial neural network identified the significant genes to distinguish idiopathic pulmonary fibrosis,https://www.nature.com/articles/s41598-023-28536-w
+ann_six_gene_scirep_2023,ADAMTS14,False,Artificial neural network identified the significant genes to distinguish idiopathic pulmonary fibrosis,https://www.nature.com/articles/s41598-023-28536-w
+ann_six_gene_scirep_2023,HS6ST2,False,Artificial neural network identified the significant genes to distinguish idiopathic pulmonary fibrosis,https://www.nature.com/articles/s41598-023-28536-w
+ann_six_gene_scirep_2023,IL13RA2,False,Artificial neural network identified the significant genes to distinguish idiopathic pulmonary fibrosis,https://www.nature.com/articles/s41598-023-28536-w
+ann_six_gene_scirep_2023,IGFL2,False,Artificial neural network identified the significant genes to distinguish idiopathic pulmonary fibrosis,https://www.nature.com/articles/s41598-023-28536-w
+ppi_hub_frontiers_2021,COL1A1,False,Identification of Hub Genes and Pathways Associated With Idiopathic Pulmonary Fibrosis via Bioinformatics Analysis,https://pmc.ncbi.nlm.nih.gov/articles/PMC8406749/
+ppi_hub_frontiers_2021,COL1A2,False,Identification of Hub Genes and Pathways Associated With Idiopathic Pulmonary Fibrosis via Bioinformatics Analysis,https://pmc.ncbi.nlm.nih.gov/articles/PMC8406749/
+ppi_hub_frontiers_2021,COL3A1,False,Identification of Hub Genes and Pathways Associated With Idiopathic Pulmonary Fibrosis via Bioinformatics Analysis,https://pmc.ncbi.nlm.nih.gov/articles/PMC8406749/
+ppi_hub_frontiers_2021,COL14A1,True,Identification of Hub Genes and Pathways Associated With Idiopathic Pulmonary Fibrosis via Bioinformatics Analysis,https://pmc.ncbi.nlm.nih.gov/articles/PMC8406749/
+ppi_hub_frontiers_2021,COL15A1,False,Identification of Hub Genes and Pathways Associated With Idiopathic Pulmonary Fibrosis via Bioinformatics Analysis,https://pmc.ncbi.nlm.nih.gov/articles/PMC8406749/
+ppi_hub_frontiers_2021,POSTN,False,Identification of Hub Genes and Pathways Associated With Idiopathic Pulmonary Fibrosis via Bioinformatics Analysis,https://pmc.ncbi.nlm.nih.gov/articles/PMC8406749/
+ppi_hub_frontiers_2021,SPP1,False,Identification of Hub Genes and Pathways Associated With Idiopathic Pulmonary Fibrosis via Bioinformatics Analysis,https://pmc.ncbi.nlm.nih.gov/articles/PMC8406749/
+ppi_hub_frontiers_2021,MMP1,False,Identification of Hub Genes and Pathways Associated With Idiopathic Pulmonary Fibrosis via Bioinformatics Analysis,https://pmc.ncbi.nlm.nih.gov/articles/PMC8406749/
+ppi_hub_frontiers_2021,MMP7,False,Identification of Hub Genes and Pathways Associated With Idiopathic Pulmonary Fibrosis via Bioinformatics Analysis,https://pmc.ncbi.nlm.nih.gov/articles/PMC8406749/
+ppi_hub_frontiers_2021,ASPN,True,Identification of Hub Genes and Pathways Associated With Idiopathic Pulmonary Fibrosis via Bioinformatics Analysis,https://pmc.ncbi.nlm.nih.gov/articles/PMC8406749/
+ppi_hub_frontiers_2021,CDH2,False,Identification of Hub Genes and Pathways Associated With Idiopathic Pulmonary Fibrosis via Bioinformatics Analysis,https://pmc.ncbi.nlm.nih.gov/articles/PMC8406749/
+ppi_hub_frontiers_2021,CTSK,False,Identification of Hub Genes and Pathways Associated With Idiopathic Pulmonary Fibrosis via Bioinformatics Analysis,https://pmc.ncbi.nlm.nih.gov/articles/PMC8406749/
+explainable_ml_reported_genes_2023,MMP7,False,An explainable machine learning-driven proposal of pulmonary fibrosis biomarkers,https://pmc.ncbi.nlm.nih.gov/articles/PMC10049879/
+explainable_ml_reported_genes_2023,COL15A1,False,An explainable machine learning-driven proposal of pulmonary fibrosis biomarkers,https://pmc.ncbi.nlm.nih.gov/articles/PMC10049879/
+explainable_ml_reported_genes_2023,COMP,False,An explainable machine learning-driven proposal of pulmonary fibrosis biomarkers,https://pmc.ncbi.nlm.nih.gov/articles/PMC10049879/
+explainable_ml_reported_genes_2023,IL13RA2,False,An explainable machine learning-driven proposal of pulmonary fibrosis biomarkers,https://pmc.ncbi.nlm.nih.gov/articles/PMC10049879/
+explainable_ml_reported_genes_2023,PAPSS2,False,An explainable machine learning-driven proposal of pulmonary fibrosis biomarkers,https://pmc.ncbi.nlm.nih.gov/articles/PMC10049879/
+explainable_ml_reported_genes_2023,COL1A1,False,An explainable machine learning-driven proposal of pulmonary fibrosis biomarkers,https://pmc.ncbi.nlm.nih.gov/articles/PMC10049879/
+explainable_ml_reported_genes_2023,COL17A1,False,An explainable machine learning-driven proposal of pulmonary fibrosis biomarkers,https://pmc.ncbi.nlm.nih.gov/articles/PMC10049879/
+explainable_ml_reported_genes_2023,COL5A2,False,An explainable machine learning-driven proposal of pulmonary fibrosis biomarkers,https://pmc.ncbi.nlm.nih.gov/articles/PMC10049879/
+classic_mmp_biomarkers,MMP1,False,MMP1 and MMP7 as potential peripheral blood biomarkers in idiopathic pulmonary fibrosis,https://pubmed.ncbi.nlm.nih.gov/18447576/
+classic_mmp_biomarkers,MMP7,False,MMP1 and MMP7 as potential peripheral blood biomarkers in idiopathic pulmonary fibrosis,https://pubmed.ncbi.nlm.nih.gov/18447576/
+cxcl14_shap_reported_2025,CXCL14,False,SHAP-based feature selection reports CXCL14 as an IPF predictor,https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1608078/full

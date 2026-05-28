@@ -1,0 +1,4 @@
+﻿metric,observed_value,matched_random_mean,matched_random_sd,matched_random_95th_percentile,observed_percentile_within_random,interpretation
+mean_roc_auc,0.9462816141706892,0.9442188144921231,0.018507580197871635,0.9679438153925913,0.49,"observed final-panel refit is compared with common discovery features matched for direction, validation support, and discovery-effect strata"
+mean_pr_auc,0.9302230330535946,0.9322542177387383,0.0184725388854756,0.9565119297269234,0.454,"observed final-panel refit is compared with common discovery features matched for direction, validation support, and discovery-effect strata"
+mean_balanced_accuracy,0.8641479305058763,0.7611058388883728,0.04843895996779229,0.8427325059808612,0.992,"observed final-panel refit is compared with common discovery features matched for direction, validation support, and discovery-effect strata"

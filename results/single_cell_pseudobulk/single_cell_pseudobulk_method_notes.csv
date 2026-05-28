@@ -1,0 +1,7 @@
+﻿item,value
+statistical_test,two-sided Welch test comparing donor-level log1p normalized pseudobulk expression between IPF and control donors
+fdr_scope,Benjamini-Hochberg correction across all tested core candidate x dataset x broad-celltype pseudobulk comparisons
+display_rule_for_figure_6c,"Displayed comparisons are direction-consistent with bulk evidence, have at least 10 IPF and 10 control donors, and pass BH-adjusted FDR < 0.01."
+donor_celltype_cell_count_policy,No additional minimum per-donor cell-count threshold was imposed after broad-celltype aggregation; donor counts and per-donor cell-count summaries are provided for audit.
+minimum_displayed_ipf_donors,12
+minimum_displayed_control_donors,10

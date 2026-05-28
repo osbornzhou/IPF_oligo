@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1600" viewBox="0 0 1600 1600">
+<title>Figure 6 editable perturbation-triage map</title>
+<rect x="0" y="0" width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,DejaVu Sans,sans-serif;} .small{fill:#333;} .axis{stroke:#333;stroke-width:1.2;} .grid{stroke:#E6EBF2;stroke-width:1;} .panel{font-weight:700;font-size:30px;}</style>
+<text x="800.00" y="60.00" font-size="32" font-weight="700" text-anchor="middle" fill="#222222">
+<tspan x="800.00" dy="0">Oligonucleotide-focused perturbation-triage map</tspan>
+</text>
+<line x1="275.00" y1="140.00" x2="275.00" y2="1460.00" stroke="#E6EBF2" stroke-width="1.3"/>
+<text x="275.00" y="1495.00" font-size="16" font-weight="400" text-anchor="middle" fill="#555555">
+<tspan x="275.00" dy="0">0</tspan>
+</text>
+<line x1="465.18" y1="140.00" x2="465.18" y2="1460.00" stroke="#E6EBF2" stroke-width="1.3"/>
+<text x="465.18" y="1495.00" font-size="16" font-weight="400" text-anchor="middle" fill="#555555">
+<tspan x="465.18" dy="0">1</tspan>
+</text>
+<line x1="655.36" y1="140.00" x2="655.36" y2="1460.00" stroke="#E6EBF2" stroke-width="1.3"/>
+<text x="655.36" y="1495.00" font-size="16" font-weight="400" text-anchor="middle" fill="#555555">
+<tspan x="655.36" dy="0">2</tspan>
+</text>
+<line x1="845.54" y1="140.00" x2="845.54" y2="1460.00" stroke="#E6EBF2" stroke-width="1.3"/>
+<text x="845.54" y="1495.00" font-size="16" font-weight="400" text-anchor="middle" fill="#555555">
+<tspan x="845.54" dy="0">3</tspan>
+</text>
+<line x1="1035.71" y1="140.00" x2="1035.71" y2="1460.00" stroke="#E6EBF2" stroke-width="1.3"/>
+<text x="1035.71" y="1495.00" font-size="16" font-weight="400" text-anchor="middle" fill="#555555">
+<tspan x="1035.71" dy="0">4</tspan>
+</text>
+<line x1="1225.89" y1="140.00" x2="1225.89" y2="1460.00" stroke="#E6EBF2" stroke-width="1.3"/>
+<text x="1225.89" y="1495.00" font-size="16" font-weight="400" text-anchor="middle" fill="#555555">
+<tspan x="1225.89" dy="0">5</tspan>
+</text>
+<text x="35.00" y="190.16" font-size="21" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">TNIK</tspan>
+</text>
+<rect class="" x="275.00" y="154.96" width="285.27" height="54.56" rx="0" ry="0" fill="#7E61A8" stroke="none" stroke-width="1" opacity="1"/>
+<text x="576.27" y="190.16" font-size="16" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="576.27" dy="0">External TNIK bridge</tspan>
+</text>
+<text x="35.00" y="278.16" font-size="21" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">MNS1</tspan>
+</text>
+<rect class="" x="275.00" y="242.96" width="513.48" height="54.56" rx="0" ry="0" fill="#4FA188" stroke="none" stroke-width="1" opacity="1"/>
+<text x="804.48" y="278.16" font-size="16" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="804.48" dy="0">miRNA-axis hypothesis</tspan>
+</text>
+<text x="35.00" y="366.16" font-size="21" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">RPGRIP1L</tspan>
+</text>
+<rect class="" x="275.00" y="330.96" width="513.48" height="54.56" rx="0" ry="0" fill="#4FA188" stroke="none" stroke-width="1" opacity="1"/>
+<text x="804.48" y="366.16" font-size="16" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="804.48" dy="0">miRNA-axis hypothesis</tspan>
+</text>
+<text x="35.00" y="454.16" font-size="21" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">CLDN1</tspan>
+</text>
+<rect class="" x="275.00" y="418.96" width="817.77" height="54.56" rx="0" ry="0" fill="#4FA188" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1108.77" y="454.16" font-size="16" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="1108.77" dy="0">miRNA-axis hypothesis</tspan>
+</text>
+<text x="35.00" y="542.16" font-size="21" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">NECAB1</tspan>
+</text>
+<rect class="" x="275.00" y="506.96" width="551.00" height="54.56" rx="0" ry="0" fill="#4C78A8" stroke="none" stroke-width="1" opacity="1"/>
+<text x="842.00" y="542.16" font-size="16" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="842.00" dy="0">Restoration/pathway marker</tspan>
+</text>
+<text x="35.00" y="630.16" font-size="21" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">GPX3</tspan>
+</text>
+<rect class="" x="275.00" y="594.96" width="590.50" height="54.56" rx="0" ry="0" fill="#4C78A8" stroke="none" stroke-width="1" opacity="1"/>
+<text x="881.50" y="630.16" font-size="16" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="881.50" dy="0">Restoration/pathway marker</tspan>
+</text>
+<text x="35.00" y="718.16" font-size="21" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">COL1A1</tspan>
+</text>
+<rect class="" x="275.00" y="682.96" width="637.10" height="54.56" rx="0" ry="0" fill="#D99F3D" stroke="none" stroke-width="1" opacity="1"/>
+<text x="928.10" y="718.16" font-size="16" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="928.10" dy="0">Context-dependent</tspan>
+</text>
+<text x="35.00" y="806.16" font-size="21" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">SPP1</tspan>
+</text>
+<rect class="" x="275.00" y="770.96" width="637.10" height="54.56" rx="0" ry="0" fill="#D99F3D" stroke="none" stroke-width="1" opacity="1"/>
+<text x="928.10" y="806.16" font-size="16" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="928.10" dy="0">Context-dependent</tspan>
+</text>
+<text x="35.00" y="894.16" font-size="21" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">COL3A1</tspan>
+</text>
+<rect class="" x="275.00" y="858.96" width="637.10" height="54.56" rx="0" ry="0" fill="#D99F3D" stroke="none" stroke-width="1" opacity="1"/>
+<text x="928.10" y="894.16" font-size="16" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="928.10" dy="0">Context-dependent</tspan>
+</text>
+<text x="35.00" y="982.16" font-size="21" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">POSTN</tspan>
+</text>
+<rect class="" x="275.00" y="946.96" width="740.74" height="54.56" rx="0" ry="0" fill="#D99F3D" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1031.74" y="982.16" font-size="16" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="1031.74" dy="0">Context-dependent</tspan>
+</text>
+<text x="35.00" y="1070.16" font-size="21" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">CDH3</tspan>
+</text>
+<rect class="" x="275.00" y="1034.96" width="739.95" height="54.56" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1030.95" y="1070.16" font-size="16" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="1030.95" dy="0">Knockdown-screening</tspan>
+</text>
+<text x="35.00" y="1158.16" font-size="21" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">ASPN</tspan>
+</text>
+<rect class="" x="275.00" y="1122.96" width="836.79" height="54.56" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1127.79" y="1158.16" font-size="16" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="1127.79" dy="0">Knockdown-screening</tspan>
+</text>
+<text x="35.00" y="1246.16" font-size="21" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">PTGFRN</tspan>
+</text>
+<rect class="" x="275.00" y="1210.96" width="913.10" height="54.56" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1204.10" y="1246.16" font-size="16" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="1204.10" dy="0">Knockdown-screening</tspan>
+</text>
+<text x="35.00" y="1334.16" font-size="21" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">COL14A1</tspan>
+</text>
+<rect class="" x="275.00" y="1298.96" width="952.30" height="54.56" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1243.30" y="1334.16" font-size="16" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="1243.30" dy="0">Knockdown-screening</tspan>
+</text>
+<text x="35.00" y="1422.16" font-size="21" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">CD24</tspan>
+</text>
+<rect class="" x="275.00" y="1386.96" width="992.73" height="54.56" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1283.73" y="1422.16" font-size="16" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="1283.73" dy="0">Knockdown-screening</tspan>
+</text>
+<line x1="275.00" y1="1460.00" x2="1340.00" y2="1460.00" stroke="#333333" stroke-width="1.5"/>
+<text x="807.50" y="1535.00" font-size="19" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="807.50" dy="0">Oligonucleotide validation-planning score</tspan>
+</text>
+</svg>

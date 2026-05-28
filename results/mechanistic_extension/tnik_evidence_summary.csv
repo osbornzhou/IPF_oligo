@@ -1,0 +1,9 @@
+﻿evidence_layer,series_id,metric,value,supports_tnik_as_primary_discovery_target,interpretation
+bulk_differential_expression,GSE110147,logFC/adj.P.Val,logFC=0.544; adj.P=0.000758; role=validation,False,TNIK differential-expression evidence by cohort
+bulk_differential_expression,GSE150910,logFC/adj.P.Val,logFC=-0.584; adj.P=3.17e-10; role=validation,False,TNIK differential-expression evidence by cohort
+bulk_differential_expression,GSE32537,logFC/adj.P.Val,logFC=-0.0965; adj.P=0.174; role=discovery,False,TNIK differential-expression evidence by cohort
+bulk_differential_expression,GSE53845,logFC/adj.P.Val,logFC=-0.369; adj.P=0.0256; role=validation,False,TNIK differential-expression evidence by cohort
+bulk_differential_expression,GSE92592,logFC/adj.P.Val,logFC=-0.409; adj.P=0.00597; role=validation,False,TNIK differential-expression evidence by cohort
+coexpression_module,GSE32537,TNIK module,M09; IPF r=0.736; Wnt/TNIK marker r=-0.172,False,"TNIK can be discussed as pathway-bridge evidence, not as a primary robust/ML-selected target"
+single_cell_expression,GSE135893/GSE136831,top TNIK cell contexts,GSE136831:Control:Epithelial=2.83; GSE136831:IPF:Myeloid=2.42; GSE136831:Control:Myeloid=2.30; GSE136831:Control:Lymphoid=2.25; GSE136831:IPF:Lymphoid=2.19,False,Cellular context available for wet validation design
+curated_ligand_receptor_wnt_bridge,GSE135893/GSE136831,top Wnt/TNIK upstream LR deltas,WNT7B-LRP6:Epithelial->Endothelial delta=0.02; WNT7B-FZD1:Epithelial->Mesenchymal delta=0.02; WNT7B-LRP6:Epithelial->Epithelial delta=0.02; WNT7B-LRP6:Epithelial->Stromal delta=0.02; WNT7B-LRP6:Epithelial->Epithelial delta=0.01; WNT7B-FZD1:Epithelial->Stromal delta=0.01; WNT7B-LRP6:Epithelial->Mesenchymal delta=0.01; WNT5A-FZD5:Mesenchymal->Epithelial delta=0.01; WNT7B-FZD1:Epithelial->Epithelial delta=0.01; WNT7B-LRP6:Epithelial->Endothelial delta=0.00,False,Wnt ligand-receptor changes can bridge an external TNIK oligonucleotide hypothesis

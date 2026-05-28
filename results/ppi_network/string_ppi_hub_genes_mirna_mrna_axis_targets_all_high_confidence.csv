@@ -1,0 +1,17 @@
+﻿gene_set,score_label,gene_symbol,in_input,mapped_to_string,string_id,degree,weighted_degree,betweenness,closeness,clustering_coefficient,component_id,component_size,degree_norm,weighted_degree_norm,betweenness_norm,closeness_norm,hub_score,hub_rank,hub_top20
+mirna_mrna_axis_targets_all,high_confidence,C6,True,True,9606.ENSP00000263413,0,0,0.0,0.0,0.0,0,1,0,0,0,0,0,1,True
+mirna_mrna_axis_targets_all,high_confidence,CCDC113,True,True,9606.ENSP00000219299,0,0,0.0,0.0,0.0,0,1,0,0,0,0,0,2,True
+mirna_mrna_axis_targets_all,high_confidence,CDH2,True,True,9606.ENSP00000269141,0,0,0.0,0.0,0.0,0,1,0,0,0,0,0,3,True
+mirna_mrna_axis_targets_all,high_confidence,CHST9,True,True,9606.ENSP00000480991,0,0,0.0,0.0,0.0,0,1,0,0,0,0,0,4,True
+mirna_mrna_axis_targets_all,high_confidence,CLDN1,True,True,9606.ENSP00000295522,0,0,0.0,0.0,0.0,0,1,0,0,0,0,0,5,True
+mirna_mrna_axis_targets_all,high_confidence,FAM81B,True,True,9606.ENSP00000283357,0,0,0.0,0.0,0.0,0,1,0,0,0,0,0,6,True
+mirna_mrna_axis_targets_all,high_confidence,GOLM1,True,True,9606.ENSP00000373364,0,0,0.0,0.0,0.0,0,1,0,0,0,0,0,7,True
+mirna_mrna_axis_targets_all,high_confidence,LRRN1,True,True,9606.ENSP00000314901,0,0,0.0,0.0,0.0,0,1,0,0,0,0,0,8,True
+mirna_mrna_axis_targets_all,high_confidence,LTBP1,True,True,9606.ENSP00000386043,0,0,0.0,0.0,0.0,0,1,0,0,0,0,0,9,True
+mirna_mrna_axis_targets_all,high_confidence,MNS1,True,True,9606.ENSP00000260453,0,0,0.0,0.0,0.0,0,1,0,0,0,0,0,10,True
+mirna_mrna_axis_targets_all,high_confidence,PTGFRN,True,True,9606.ENSP00000376899,0,0,0.0,0.0,0.0,0,1,0,0,0,0,0,11,True
+mirna_mrna_axis_targets_all,high_confidence,RPGRIP1L,True,True,9606.ENSP00000493946,0,0,0.0,0.0,0.0,0,1,0,0,0,0,0,12,True
+mirna_mrna_axis_targets_all,high_confidence,RSPH4A,True,True,9606.ENSP00000229554,0,0,0.0,0.0,0.0,0,1,0,0,0,0,0,13,True
+mirna_mrna_axis_targets_all,high_confidence,SERPINB5,True,True,9606.ENSP00000372221,0,0,0.0,0.0,0.0,0,1,0,0,0,0,0,14,True
+mirna_mrna_axis_targets_all,high_confidence,SIX4,True,True,9606.ENSP00000216513,0,0,0.0,0.0,0.0,0,1,0,0,0,0,0,15,True
+mirna_mrna_axis_targets_all,high_confidence,TP63,True,True,9606.ENSP00000264731,0,0,0.0,0.0,0.0,0,1,0,0,0,0,0,16,True

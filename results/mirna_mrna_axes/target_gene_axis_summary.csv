@@ -1,0 +1,17 @@
+﻿target_gene,regulator_mirna_count,regulators,mean_axis_score
+CLDN1,2,hsa-miR-141;hsa-miR-375,47.75
+C6,2,hsa-miR-30a;hsa-miR-30d,46.0
+FAM81B,2,hsa-miR-30a;hsa-miR-30d,46.0
+SIX4,2,hsa-miR-30a;hsa-miR-30d,44.0
+PTGFRN,2,hsa-miR-30a;hsa-miR-92a,43.5
+SERPINB5,2,hsa-miR-141;hsa-miR-30a,34.75
+TP63,1,hsa-miR-92a,59.0
+CDH2,1,hsa-miR-30a,49.0
+GOLM1,1,hsa-miR-92a,49.0
+LRRN1,1,hsa-miR-30a,49.0
+LTBP1,1,hsa-miR-92a,49.0
+CCDC113,1,hsa-miR-92a,45.0
+CHST9,1,hsa-miR-92a,43.0
+RSPH4A,1,hsa-miR-141,40.5
+MNS1,1,hsa-miR-375,37.0
+RPGRIP1L,1,hsa-miR-375,37.0

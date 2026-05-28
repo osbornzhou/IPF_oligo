@@ -1,0 +1,8 @@
+qc_item,value,pass
+main_text_exact_axes,3,True
+all_have_pmids,True,True
+all_have_validation_methods,True,True
+cell_context_explicitly_limited,True,True
+targetscan_or_literature_crosscheck_present,True,True
+mirdb_mirwalk_clip_status_explicit,True,True
+cldn1_has_independent_literature_support,True,True

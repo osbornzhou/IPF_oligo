@@ -1,0 +1,4 @@
+﻿item,note
+leakage_control,"External validation cohorts were not used for feature selection, hyperparameter tuning, or final refitting."
+reported_gene_set_benchmarking,"Published comparators were retrained reported gene sets under the same framework, not original model-object reproductions."
+decision_curve_outputs,"Calibration and decision-curve outputs were retained as exploratory model-review checks, not as clinical threshold claims."

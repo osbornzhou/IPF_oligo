@@ -1,0 +1,5 @@
+﻿gene_set,score_label,required_score,input_genes,mapped_genes,mapping_rate,edges,network_nodes_with_edges,connected_components,largest_component_size,qc1_input_pass,qc2_string_mapping_pass,qc3_network_integrity_pass,triple_qc_pass,string_version,organism,species_taxon_id
+robust_mrna_strict,medium_confidence,400,280,267,0.953571,950,226,4,219,True,True,True,True,string_version stable_address 12.0 https://version-12-0.string-db.org,Homo sapiens,9606
+robust_mrna_strict,high_confidence,700,280,267,0.953571,212,114,12,41,True,True,True,True,string_version stable_address 12.0 https://version-12-0.string-db.org,Homo sapiens,9606
+mirna_mrna_axis_targets_all,medium_confidence,400,16,16,1.0,1,2,1,2,True,True,True,True,string_version stable_address 12.0 https://version-12-0.string-db.org,Homo sapiens,9606
+mirna_mrna_axis_targets_all,high_confidence,700,16,16,1.0,0,0,0,1,True,True,False,False,string_version stable_address 12.0 https://version-12-0.string-db.org,Homo sapiens,9606

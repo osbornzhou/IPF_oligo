@@ -1,0 +1,5 @@
+﻿qc_item,value,pass
+robust_downregulated_mirnas_tested,7,True
+mirtarbase_functional_rows_used,4454,True
+hsa_mir_375_targets_in_background,250,True
+paired_correlation_attempted_only_if_metadata_supported,not_attempted_no_explicit_shared_donor_id,True

@@ -1,0 +1,6 @@
+﻿metric_or_term,definition
+mean external ROC AUC / PR AUC / balanced accuracy,"Arithmetic mean of the corresponding per-validation-cohort metric across GSE110147, GSE150910, GSE53845, and GSE92592."
+minimum external ROC AUC,Lowest per-cohort ROC AUC among the four validation cohorts.
+pooled external ROC AUC,"Metric computed after pooling individual external-validation predictions across cohorts; used for interpretability/calibration checks, not as the headline external metric."
+label permutation control,Negative control for non-random predictive signal under the same modeling workflow; it does not exclude cohort-composition or platform effects.
+decision-curve analysis,Exploratory threshold-utility check; no clinical decision threshold was predefined or claimed.

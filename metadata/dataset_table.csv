@@ -1,0 +1,16 @@
+dataset_id,disease,tissue_or_model,data_type,platform,sample_size_ipf,sample_size_control,usage,priority,status,notes
+GSE32537,IPF,lung tissue,bulk mRNA,microarray,,,training/high-confidence DEG,high,to_check,Commonly used IPF lung transcriptome dataset
+GSE150910,IPF,lung tissue,bulk mRNA,RNA-seq,,,training/external validation,high,to_check,Useful for robust mRNA validation if sample annotations are clear
+GSE53845,IPF,lung tissue,bulk mRNA,microarray,,,training/validation,medium,to_check,Potential additional bulk transcriptome cohort
+GSE110147,IPF,lung tissue,bulk mRNA,microarray or RNA-seq,,,external validation,medium,to_check,Use for independent validation if phenotype labels are clean
+GSE92592,IPF,lung tissue,bulk mRNA,microarray or RNA-seq,,,external validation,medium,to_check,Use for external validation or sensitivity analysis
+GSE27430,IPF,lung tissue or blood,miRNA expression,microarray,,,miRNA discovery,high,to_check,Potential IPF miRNA dataset
+GSE32538,IPF,lung tissue,miRNA expression,microarray,,,miRNA discovery/validation,high,to_check,Pair with mRNA datasets if sample context matches
+GSE21394,IPF,lung tissue or model,miRNA expression,microarray,,,miRNA validation,medium,to_check,Check platform and grouping
+GSE166682,IPF,lung tissue or model,miRNA expression,RNA-seq or array,,,miRNA validation,medium,to_check,Check availability and annotations
+GSE122960,IPF,lung tissue,single-cell RNA-seq,scRNA-seq,,,cell-type validation,high,to_check,Use to localize candidate mRNA targets by cell type
+GSE135893,IPF,lung tissue,single-cell RNA-seq,scRNA-seq,,,cell-type validation,high,to_check,Use for fibroblast/AT2/macrophage validation
+GSE136831,IPF,lung tissue,single-cell RNA-seq,scRNA-seq,,,cell-type validation,medium,to_check,Use as additional cell-type validation
+TBD_TGF_beta_fibroblast,pulmonary fibrosis,fibroblast perturbation,bulk mRNA,RNA-seq or array,,,functional validation,high,to_find,TGF-beta treated lung fibroblast dataset
+TBD_bleomycin_model,pulmonary fibrosis,mouse lung fibrosis model,bulk mRNA or miRNA,RNA-seq or array,,,mechanistic validation,medium,to_find,Use as supportive fibrosis model rather than primary IPF evidence
+

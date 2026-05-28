@@ -1,0 +1,16 @@
+# Raw GEO downloads are intentionally not tracked in GitHub.
+# They are large, public, and recoverable from the GEO accessions listed in
+# the manuscript and Additional file 1.
+data_raw/
+
+# Local office/render scratch folders
+manuscript/lo_profile*/
+manuscript/rendered*/
+manuscript/obsolete_previews/
+
+# Local OS/editor noise
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+

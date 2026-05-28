@@ -1,0 +1,13 @@
+﻿figure,check,status,note
+All,Source traceability,PASS,Figures are generated from local CSV outputs; no hand-entered plotted values.
+All,AI-style visual artifacts,PASS,"Restrained colors, no decorative icons, no exaggerated claims in panel text."
+All,Output formats,PASS,PNG and PDF generated for each main figure.
+Figure 1,Dataset counts,PASS,691 bulk/miRNA samples; 332798 single-cell metadata-matched cells.
+Figure 2,Robust heatmap ordering,PASS,"mRNA and miRNA heatmaps are ordered by strict robust candidate tables, not alphabetically by direction matrix."
+Figure 3,miRNA axis evidence wording,PASS,Edges distinguish exact mature-miRNA matches from arm-agnostic matches.
+Figure 3,GO term presentation,PASS,Main panel uses representative GO BP terms; complete significant enrichment remains in the supplementary output.
+Figure 4,PPI panel title,PASS,Top-20 subnetwork title matches the available top hub table.
+Figure 5,External validation leakage,PASS,Uses discovery-only ML outputs; best model is elastic_net with external mean AUC 0.971.
+Figure 5,Published comparator wording,PASS,"Compares against published signatures, not unavailable model objects; comparison rows=7."
+Figure 6,Single-cell heatmap validity,PASS,Rows with no available target expression values are removed before plotting.
+Manuscript consistency,Core result counts,PASS,280 robust mRNAs and 10 robust miRNAs.

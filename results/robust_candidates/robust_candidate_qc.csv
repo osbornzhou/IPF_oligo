@@ -1,0 +1,3 @@
+﻿data_type,discovery_dataset,validation_datasets,discovery_significant_features,robust_strict_candidates,robust_relaxed_candidates,strict_rule,relaxed_rule
+bulk mRNA,GSE32537,GSE110147;GSE150910;GSE53845;GSE92592,449,280,286,mRNA: >=2 same-direction validation datasets with FDR<0.05 and |logFC|>=1; miRNA: >=1,"mRNA: >=1 FDR same-direction plus >=2 nominal same-direction, or strict; miRNA: >=1 FDR or nominal same-direction"
+miRNA,GSE32538,GSE21394;GSE27430,47,10,10,mRNA: >=2 same-direction validation datasets with FDR<0.05 and |logFC|>=1; miRNA: >=1,"mRNA: >=1 FDR same-direction plus >=2 nominal same-direction, or strict; miRNA: >=1 FDR or nominal same-direction"

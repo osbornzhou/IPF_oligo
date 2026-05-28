@@ -1,0 +1,3 @@
+gene_set,database,input_entrez_count,ID,Description,GeneRatio,BgRatio,RichFactor,FoldEnrichment,zScore,pvalue,p.adjust,qvalue,geneID,Count,category,subcategory,significant
+robust_mrna_down,GO_MF,63,GO:0016799,"hydrolase activity, hydrolyzing N-glycosyl compounds",3/59,11/7472,0.272727272727273,34.5392912172573,9.93047624855509,7.37783573502063e-05,0.0385407583424299,0.0385407583424299,IL1RL1/IL18RAP/IL18R1,3,,,TRUE
+robust_mrna_down,GO_MF,63,GO:0070412,R-SMAD binding,3/59,12/7472,0.25,31.6610169491525,9.48257177157081,9.78191836102282e-05,0.0385407583424299,0.0385407583424299,SMAD6/RGCC/ANKRD1,3,,,TRUE

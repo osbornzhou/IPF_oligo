@@ -1,0 +1,373 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="2200" viewBox="0 0 1700 2200">
+<title>Figure 5 editable single-cell pseudobulk localization</title>
+<rect x="0" y="0" width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,DejaVu Sans,sans-serif;} .small{fill:#333;} .axis{stroke:#333;stroke-width:1.2;} .grid{stroke:#E6EBF2;stroke-width:1;} .panel{font-weight:700;font-size:30px;}</style>
+<text x="40.00" y="55.00" font-size="30" font-weight="700" text-anchor="start" fill="#222222">
+<tspan x="40.00" dy="0">A</tspan>
+</text>
+<text x="925.00" y="55.00" font-size="30" font-weight="700" text-anchor="start" fill="#222222">
+<tspan x="925.00" dy="0">B</tspan>
+</text>
+<text x="500.00" y="980.00" font-size="40" font-weight="700" text-anchor="start" fill="#222222">
+<tspan x="500.00" dy="0">C  Donor-aware pseudobulk validation</tspan>
+</text>
+<text x="370.00" y="90.00" font-size="20" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="370.00" dy="0">Single-cell IPF-control expression differences</tspan>
+</text>
+<text x="102.00" y="160.00" font-size="14" font-weight="400" text-anchor="end" fill="#222222">
+<tspan x="102.00" dy="0">GSE135893</tspan>
+<tspan x="102.00" dy="16.10">Macrophages</tspan>
+</text>
+<rect class="" x="120.00" y="110.00" width="50.00" height="105.00" rx="0" ry="0" fill="#B65F62" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="145.00" y="166.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="145.00" dy="0">2.1</tspan>
+</text>
+<rect class="" x="170.00" y="110.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F7F7F7" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="195.00" y="166.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="195.00" dy="0">0.0</tspan>
+</text>
+<rect class="" x="220.00" y="110.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F7F7F7" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="245.00" y="166.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="245.00" dy="0">0.0</tspan>
+</text>
+<rect class="" x="270.00" y="110.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F7F6F6" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="295.00" y="166.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="295.00" dy="0">0.0</tspan>
+</text>
+<rect class="" x="320.00" y="110.00" width="50.00" height="105.00" rx="0" ry="0" fill="#C8D4E1" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="345.00" y="166.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="345.00" dy="0">-0.6</tspan>
+</text>
+<rect class="" x="370.00" y="110.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F7F7F7" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="395.00" y="166.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="395.00" dy="0">0.0</tspan>
+</text>
+<rect class="" x="420.00" y="110.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F7F7F7" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="445.00" y="166.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="445.00" dy="0">0.0</tspan>
+</text>
+<rect class="" x="470.00" y="110.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F5F3F3" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="495.00" y="166.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="495.00" dy="0">0.1</tspan>
+</text>
+<rect class="" x="520.00" y="110.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F7F6F6" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="545.00" y="166.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="545.00" dy="0">0.0</tspan>
+</text>
+<rect class="" x="570.00" y="110.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F7F7F7" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="595.00" y="166.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="595.00" dy="0">0.0</tspan>
+</text>
+<text x="102.00" y="265.00" font-size="14" font-weight="400" text-anchor="end" fill="#222222">
+<tspan x="102.00" dy="0">GSE136831</tspan>
+<tspan x="102.00" dy="16.10">Macrophage</tspan>
+</text>
+<rect class="" x="120.00" y="215.00" width="50.00" height="105.00" rx="0" ry="0" fill="#B96568" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="145.00" y="271.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="145.00" dy="0">2.0</tspan>
+</text>
+<rect class="" x="170.00" y="215.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F6F5F5" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="195.00" y="271.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="195.00" dy="0">0.0</tspan>
+</text>
+<rect class="" x="220.00" y="215.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F6F5F5" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="245.00" y="271.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="245.00" dy="0">0.0</tspan>
+</text>
+<rect class="" x="270.00" y="215.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F7F7F7" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="295.00" y="271.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="295.00" dy="0">0.0</tspan>
+</text>
+<rect class="" x="320.00" y="215.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F6F6F7" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="345.00" y="271.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="345.00" dy="0">-0.0</tspan>
+</text>
+<rect class="" x="370.00" y="215.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F5F5F6" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="395.00" y="271.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="395.00" dy="0">-0.0</tspan>
+</text>
+<rect class="" x="420.00" y="215.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F7F7F7" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="445.00" y="271.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="445.00" dy="0">0.0</tspan>
+</text>
+<rect class="" x="470.00" y="215.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F4EFEF" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="495.00" y="271.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="495.00" dy="0">0.1</tspan>
+</text>
+<rect class="" x="520.00" y="215.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F7F6F6" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="545.00" y="271.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="545.00" dy="0">0.0</tspan>
+</text>
+<rect class="" x="570.00" y="215.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F7F7F7" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="595.00" y="271.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="595.00" dy="0">-0.0</tspan>
+</text>
+<text x="102.00" y="370.00" font-size="14" font-weight="400" text-anchor="end" fill="#222222">
+<tspan x="102.00" dy="0">GSE136831</tspan>
+<tspan x="102.00" dy="16.10">Myofibroblast</tspan>
+</text>
+<rect class="" x="120.00" y="320.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F1E9E9" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="145.00" y="376.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="145.00" dy="0">0.2</tspan>
+</text>
+<rect class="" x="170.00" y="320.00" width="50.00" height="105.00" rx="0" ry="0" fill="#BB6A6D" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="195.00" y="376.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="195.00" dy="0">1.9</tspan>
+</text>
+<rect class="" x="220.00" y="320.00" width="50.00" height="105.00" rx="0" ry="0" fill="#C48082" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="245.00" y="376.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="245.00" dy="0">1.6</tspan>
+</text>
+<rect class="" x="270.00" y="320.00" width="50.00" height="105.00" rx="0" ry="0" fill="#BE7174" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="295.00" y="376.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="295.00" dy="0">1.8</tspan>
+</text>
+<rect class="" x="320.00" y="320.00" width="50.00" height="105.00" rx="0" ry="0" fill="#5F86B1" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="345.00" y="376.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="345.00" dy="0">-1.9</tspan>
+</text>
+<rect class="" x="370.00" y="320.00" width="50.00" height="105.00" rx="0" ry="0" fill="#E3C9CA" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="395.00" y="376.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="395.00" dy="0">0.6</tspan>
+</text>
+<rect class="" x="420.00" y="320.00" width="50.00" height="105.00" rx="0" ry="0" fill="#D9B0B2" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="445.00" y="376.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="445.00" dy="0">1.0</tspan>
+</text>
+<rect class="" x="470.00" y="320.00" width="50.00" height="105.00" rx="0" ry="0" fill="#DEBEBF" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="495.00" y="376.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="495.00" dy="0">0.8</tspan>
+</text>
+<rect class="" x="520.00" y="320.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F5F3F3" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="545.00" y="376.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="545.00" dy="0">0.1</tspan>
+</text>
+<rect class="" x="570.00" y="320.00" width="50.00" height="105.00" rx="0" ry="0" fill="#E1C3C4" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="595.00" y="376.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="595.00" dy="0">0.7</tspan>
+</text>
+<text x="102.00" y="475.00" font-size="14" font-weight="400" text-anchor="end" fill="#222222">
+<tspan x="102.00" dy="0">GSE135893</tspan>
+<tspan x="102.00" dy="16.10">Myofibroblasts</tspan>
+</text>
+<rect class="" x="120.00" y="425.00" width="50.00" height="105.00" rx="0" ry="0" fill="#D6A9AA" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="145.00" y="481.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="145.00" dy="0">1.1</tspan>
+</text>
+<rect class="" x="170.00" y="425.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F1E9EA" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="195.00" y="481.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="195.00" dy="0">0.2</tspan>
+</text>
+<rect class="" x="220.00" y="425.00" width="50.00" height="105.00" rx="0" ry="0" fill="#EAD9DA" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="245.00" y="481.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="245.00" dy="0">0.4</tspan>
+</text>
+<rect class="" x="270.00" y="425.00" width="50.00" height="105.00" rx="0" ry="0" fill="#D5A7A9" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="295.00" y="481.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="295.00" dy="0">1.1</tspan>
+</text>
+<rect class="" x="320.00" y="425.00" width="50.00" height="105.00" rx="0" ry="0" fill="#6188B2" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="345.00" y="481.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="345.00" dy="0">-1.8</tspan>
+</text>
+<rect class="" x="370.00" y="425.00" width="50.00" height="105.00" rx="0" ry="0" fill="#CD9597" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="395.00" y="481.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="395.00" dy="0">1.3</tspan>
+</text>
+<rect class="" x="420.00" y="425.00" width="50.00" height="105.00" rx="0" ry="0" fill="#D09D9F" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="445.00" y="481.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="445.00" dy="0">1.2</tspan>
+</text>
+<rect class="" x="470.00" y="425.00" width="50.00" height="105.00" rx="0" ry="0" fill="#EBDADB" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="495.00" y="481.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="495.00" dy="0">0.4</tspan>
+</text>
+<rect class="" x="520.00" y="425.00" width="50.00" height="105.00" rx="0" ry="0" fill="#F3EDED" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="545.00" y="481.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="545.00" dy="0">0.1</tspan>
+</text>
+<rect class="" x="570.00" y="425.00" width="50.00" height="105.00" rx="0" ry="0" fill="#DEBDBE" stroke="#F1F1F1" stroke-width="0.8" opacity="1"/>
+<text x="595.00" y="481.00" font-size="12" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="595.00" dy="0">0.8</tspan>
+</text>
+<text x="130.00" y="570.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222" transform="rotate(-45.00 130.00 570.00)">
+<tspan x="130.00" dy="0">SPP1</tspan>
+</text>
+<text x="180.00" y="570.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222" transform="rotate(-45.00 180.00 570.00)">
+<tspan x="180.00" dy="0">COL1A1</tspan>
+</text>
+<text x="230.00" y="570.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222" transform="rotate(-45.00 230.00 570.00)">
+<tspan x="230.00" dy="0">COL3A1</tspan>
+</text>
+<text x="280.00" y="570.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222" transform="rotate(-45.00 280.00 570.00)">
+<tspan x="280.00" dy="0">POSTN</tspan>
+</text>
+<text x="330.00" y="570.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222" transform="rotate(-45.00 330.00 570.00)">
+<tspan x="330.00" dy="0">GPX3</tspan>
+</text>
+<text x="380.00" y="570.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222" transform="rotate(-45.00 380.00 570.00)">
+<tspan x="380.00" dy="0">COL14A1</tspan>
+</text>
+<text x="430.00" y="570.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222" transform="rotate(-45.00 430.00 570.00)">
+<tspan x="430.00" dy="0">THY1</tspan>
+</text>
+<text x="480.00" y="570.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222" transform="rotate(-45.00 480.00 570.00)">
+<tspan x="480.00" dy="0">TPPP3</tspan>
+</text>
+<text x="530.00" y="570.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222" transform="rotate(-45.00 530.00 570.00)">
+<tspan x="530.00" dy="0">CD24</tspan>
+</text>
+<text x="580.00" y="570.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222" transform="rotate(-45.00 580.00 570.00)">
+<tspan x="580.00" dy="0">ASPN</tspan>
+</text>
+<line x1="1297.27" y1="110.00" x2="1297.27" y2="820.00" stroke="#333333" stroke-width="2"/>
+<text x="1310.00" y="90.00" font-size="20" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="1310.00" dy="0">Largest validated cell-type candidate shifts</tspan>
+</text>
+<text x="1015.00" y="126.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222">
+<tspan x="1015.00" dy="0">135893 | Fibroblasts | GPX3</tspan>
+</text>
+<rect class="" x="1120.99" y="103.00" width="176.29" height="34.00" rx="0" ry="0" fill="#4C78A8" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1015.00" y="181.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222">
+<tspan x="1015.00" dy="0">136831 | Vasc-Endo A | POSTN</tspan>
+</text>
+<rect class="" x="1297.27" y="158.00" width="182.35" height="34.00" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1015.00" y="236.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222">
+<tspan x="1015.00" dy="0">136831 | Myofibroblast | COL1A2</tspan>
+</text>
+<rect class="" x="1297.27" y="213.00" width="183.17" height="34.00" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1015.00" y="291.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222">
+<tspan x="1015.00" dy="0">136831 | Fibroblast | GPX3</tspan>
+</text>
+<rect class="" x="1112.20" y="268.00" width="185.07" height="34.00" rx="0" ry="0" fill="#4C78A8" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1015.00" y="346.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222">
+<tspan x="1015.00" dy="0">136831 | Myofibroblast | COL3A1</tspan>
+</text>
+<rect class="" x="1297.27" y="323.00" width="207.30" height="34.00" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1015.00" y="401.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222">
+<tspan x="1015.00" dy="0">136831 | Myofibroblast | POSTN</tspan>
+</text>
+<rect class="" x="1297.27" y="378.00" width="232.36" height="34.00" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1015.00" y="456.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222">
+<tspan x="1015.00" dy="0">135893 | Myofibroblasts | GPX3</tspan>
+</text>
+<rect class="" x="1062.90" y="433.00" width="234.37" height="34.00" rx="0" ry="0" fill="#4C78A8" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1015.00" y="511.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222">
+<tspan x="1015.00" dy="0">136831 | Myofibroblast | GPX3</tspan>
+</text>
+<rect class="" x="1059.98" y="488.00" width="237.29" height="34.00" rx="0" ry="0" fill="#4C78A8" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1015.00" y="566.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222">
+<tspan x="1015.00" dy="0">135893 | Mast Cells | SPP1</tspan>
+</text>
+<rect class="" x="1297.27" y="543.00" width="237.69" height="34.00" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1015.00" y="621.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222">
+<tspan x="1015.00" dy="0">136831 | Myofibroblast | COL1A1</tspan>
+</text>
+<rect class="" x="1297.27" y="598.00" width="243.93" height="34.00" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1015.00" y="676.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222">
+<tspan x="1015.00" dy="0">136831 | Macrophage | SPP1</tspan>
+</text>
+<rect class="" x="1297.27" y="653.00" width="252.85" height="34.00" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1015.00" y="731.00" font-size="13" font-weight="400" text-anchor="end" fill="#222222">
+<tspan x="1015.00" dy="0">135893 | Macrophages | SPP1</tspan>
+</text>
+<rect class="" x="1297.27" y="708.00" width="263.51" height="34.00" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1310.00" y="870.00" font-size="16" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="1310.00" dy="0">IPF - control log1p mean</tspan>
+</text>
+<text x="1160.00" y="1045.00" font-size="18" font-weight="400" text-anchor="start" fill="#666666">
+<tspan x="1160.00" dy="0">n=IPF/control donors represented</tspan>
+</text>
+<rect class="" x="1160.00" y="1072.00" width="24.00" height="24.00" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1192.00" y="1092.00" font-size="18" font-weight="400" text-anchor="start" fill="#666666">
+<tspan x="1192.00" dy="0">IPF-increased</tspan>
+</text>
+<rect class="" x="1370.00" y="1072.00" width="24.00" height="24.00" rx="0" ry="0" fill="#4C78A8" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1402.00" y="1092.00" font-size="18" font-weight="400" text-anchor="start" fill="#666666">
+<tspan x="1402.00" dy="0">IPF-decreased</tspan>
+</text>
+<line x1="629.52" y1="1110.00" x2="629.52" y2="2060.00" stroke="#E6EBF2" stroke-width="1.2"/>
+<text x="629.52" y="2095.00" font-size="18" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="629.52" dy="0">-1</tspan>
+</text>
+<line x1="748.57" y1="1110.00" x2="748.57" y2="2060.00" stroke="#E6EBF2" stroke-width="1.2"/>
+<text x="748.57" y="2095.00" font-size="18" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="748.57" dy="0">-0.5</tspan>
+</text>
+<line x1="867.62" y1="1110.00" x2="867.62" y2="2060.00" stroke="#E6EBF2" stroke-width="1.2"/>
+<text x="867.62" y="2095.00" font-size="18" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="867.62" dy="0">0</tspan>
+</text>
+<line x1="986.67" y1="1110.00" x2="986.67" y2="2060.00" stroke="#E6EBF2" stroke-width="1.2"/>
+<text x="986.67" y="2095.00" font-size="18" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="986.67" dy="0">0.5</tspan>
+</text>
+<line x1="1105.71" y1="1110.00" x2="1105.71" y2="2060.00" stroke="#E6EBF2" stroke-width="1.2"/>
+<text x="1105.71" y="2095.00" font-size="18" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="1105.71" dy="0">1</tspan>
+</text>
+<line x1="1224.76" y1="1110.00" x2="1224.76" y2="2060.00" stroke="#E6EBF2" stroke-width="1.2"/>
+<text x="1224.76" y="2095.00" font-size="18" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="1224.76" dy="0">1.5</tspan>
+</text>
+<line x1="867.62" y1="1110.00" x2="867.62" y2="2060.00" stroke="#666666" stroke-width="3"/>
+<text x="35.00" y="1177.38" font-size="24" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">GPX3 (Stromal, GSE136831)</tspan>
+</text>
+<rect class="" x="602.30" y="1154.38" width="265.32" height="30.00" rx="0" ry="0" fill="#4C78A8" stroke="none" stroke-width="1" opacity="1"/>
+<text x="586.30" y="1177.38" font-size="18" font-weight="400" text-anchor="end" fill="#222222">
+<tspan x="586.30" dy="0">n=32/26; FDR=3.7e-07</tspan>
+</text>
+<text x="35.00" y="1296.12" font-size="24" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">PTGFRN (Stromal, GSE136831)</tspan>
+</text>
+<rect class="" x="867.62" y="1273.12" width="58.52" height="30.00" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="942.14" y="1296.12" font-size="18" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="942.14" dy="0">n=32/26; FDR=1.4e-06</tspan>
+</text>
+<text x="35.00" y="1414.88" font-size="24" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">CD24 (Epithelial, GSE136831)</tspan>
+</text>
+<rect class="" x="867.62" y="1391.88" width="150.81" height="30.00" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1034.43" y="1414.88" font-size="18" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="1034.43" dy="0">n=32/28; FDR=1.7e-06</tspan>
+</text>
+<text x="35.00" y="1533.62" font-size="24" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">COL14A1 (Mesenchymal, GSE135893)</tspan>
+</text>
+<rect class="" x="867.62" y="1510.62" width="176.07" height="30.00" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1059.69" y="1533.62" font-size="18" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="1059.69" dy="0">n=12/10; FDR=0.007</tspan>
+</text>
+<text x="35.00" y="1652.38" font-size="24" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">COL3A1 (Stromal, GSE136831)</tspan>
+</text>
+<rect class="" x="867.62" y="1629.38" width="249.55" height="30.00" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1133.17" y="1652.38" font-size="18" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="1133.17" dy="0">n=32/26; FDR=1.0e-05</tspan>
+</text>
+<text x="35.00" y="1771.12" font-size="24" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">COL1A1 (Stromal, GSE136831)</tspan>
+</text>
+<rect class="" x="867.62" y="1748.12" width="318.91" height="30.00" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1202.53" y="1771.12" font-size="18" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="1202.53" dy="0">n=32/26; FDR=3.7e-07</tspan>
+</text>
+<text x="35.00" y="1889.88" font-size="24" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">POSTN (Endothelial, GSE136831)</tspan>
+</text>
+<rect class="" x="867.62" y="1866.88" width="344.13" height="30.00" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1227.75" y="1889.88" font-size="18" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="1227.75" dy="0">n=32/27; FDR=5.7e-10</tspan>
+</text>
+<text x="35.00" y="2008.62" font-size="24" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="35.00" dy="0">SPP1 (Myeloid, GSE136831)</tspan>
+</text>
+<rect class="" x="867.62" y="1985.62" width="413.71" height="30.00" rx="0" ry="0" fill="#B55D60" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1297.33" y="2008.62" font-size="18" font-weight="400" text-anchor="start" fill="#222222">
+<tspan x="1297.33" dy="0">n=32/28; FDR=2.1e-11</tspan>
+</text>
+<text x="945.00" y="2150.00" font-size="18" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="945.00" dy="0">IPF-control donor-level pseudobulk log1p normalized expression difference</tspan>
+</text>
+</svg>

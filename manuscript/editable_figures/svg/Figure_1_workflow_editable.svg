@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="900" viewBox="0 0 1800 900">
+<title>Figure 1 editable workflow</title>
+<rect x="0" y="0" width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,DejaVu Sans,sans-serif;} .small{fill:#333;} .axis{stroke:#333;stroke-width:1.2;} .grid{stroke:#E6EBF2;stroke-width:1;} .panel{font-weight:700;font-size:30px;}</style>
+<defs><marker id="arrow" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L10,4 L0,8 Z" fill="#4A5568"/></marker></defs>
+<text x="900.00" y="90.00" font-size="42" font-weight="700" text-anchor="middle" fill="#222222">
+<tspan x="900.00" dy="0">Boundary-tested perturbation-triage study design</tspan>
+</text>
+<rect class="" x="90.00" y="215.00" width="260.00" height="140.00" rx="12" ry="12" fill="#F6F8FA" stroke="#4A5568" stroke-width="2.2" opacity="1"/>
+<text x="220.00" y="263.00" font-size="20" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="220.00" dy="0">Public GEO input</tspan>
+<tspan x="220.00" dy="23.00">8 bulk/miRNA datasets</tspan>
+<tspan x="220.00" dy="23.00">2 scRNA-seq datasets</tspan>
+</text>
+<rect class="" x="500.00" y="215.00" width="270.00" height="140.00" rx="12" ry="12" fill="#F6F8FA" stroke="#4A5568" stroke-width="2.2" opacity="1"/>
+<text x="635.00" y="263.00" font-size="20" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="635.00" dy="0">Sample-label audit</tspan>
+<tspan x="635.00" dy="23.00">and matrix QC</tspan>
+<tspan x="635.00" dy="23.00">691 profiled samples</tspan>
+</text>
+<rect class="" x="930.00" y="215.00" width="330.00" height="140.00" rx="12" ry="12" fill="#F6F8FA" stroke="#4A5568" stroke-width="2.2" opacity="1"/>
+<text x="1095.00" y="263.00" font-size="20" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="1095.00" dy="0">Reproducible transcriptomic</tspan>
+<tspan x="1095.00" dy="23.00">evidence base</tspan>
+<tspan x="1095.00" dy="23.00">280 mRNAs / 10 miRNAs</tspan>
+</text>
+<rect class="" x="130.00" y="570.00" width="330.00" height="145.00" rx="12" ry="12" fill="#F6F8FA" stroke="#4A5568" stroke-width="2.2" opacity="1"/>
+<text x="295.00" y="618.00" font-size="20" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="295.00" dy="0">Disease-boundary</tspan>
+<tspan x="295.00" dy="23.00">stress tests</tspan>
+<tspan x="295.00" dy="23.00">fibrotic ILD state score</tspan>
+</text>
+<rect class="" x="560.00" y="570.00" width="330.00" height="145.00" rx="12" ry="12" fill="#F6F8FA" stroke="#4A5568" stroke-width="2.2" opacity="1"/>
+<text x="725.00" y="618.00" font-size="20" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="725.00" dy="0">miRNA evidence gates</tspan>
+<tspan x="725.00" dy="23.00">3 exact hsa-miR-375 axes</tspan>
+<tspan x="725.00" dy="23.00">weak axes downgraded</tspan>
+</text>
+<rect class="" x="990.00" y="570.00" width="340.00" height="145.00" rx="12" ry="12" fill="#F6F8FA" stroke="#4A5568" stroke-width="2.2" opacity="1"/>
+<text x="1160.00" y="618.00" font-size="20" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="1160.00" dy="0">Donor-aware single-cell</tspan>
+<tspan x="1160.00" dy="23.00">context</tspan>
+<tspan x="1160.00" dy="23.00">pseudobulk localization</tspan>
+</text>
+<rect class="" x="1410.00" y="570.00" width="330.00" height="145.00" rx="12" ry="12" fill="#F6F8FA" stroke="#4A5568" stroke-width="2.2" opacity="1"/>
+<text x="1575.00" y="618.00" font-size="20" font-weight="400" text-anchor="middle" fill="#222222">
+<tspan x="1575.00" dy="0">Perturbation triage</tspan>
+<tspan x="1575.00" dy="23.00">screening, markers,</tspan>
+<tspan x="1575.00" dy="23.00">restoration and axes</tspan>
+</text>
+<line x1="350.00" y1="285.00" x2="500.00" y2="285.00" stroke="#4A5568" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="770.00" y1="285.00" x2="930.00" y2="285.00" stroke="#4A5568" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1095.00" y1="355.00" x2="295.00" y2="570.00" stroke="#4A5568" stroke-width="2.2" marker-end="url(#arrow)"/>
+<line x1="1095.00" y1="355.00" x2="725.00" y2="570.00" stroke="#4A5568" stroke-width="2.2" marker-end="url(#arrow)"/>
+<line x1="1095.00" y1="355.00" x2="1160.00" y2="570.00" stroke="#4A5568" stroke-width="2.2" marker-end="url(#arrow)"/>
+<line x1="1095.00" y1="355.00" x2="1575.00" y2="570.00" stroke="#4A5568" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="900.00" y="830.00" font-size="19" font-weight="400" text-anchor="middle" fill="#444444">
+<tspan x="900.00" dy="0">All downstream gates use QC-passed datasets and preserve external validation cohorts for disease-state boundary testing.</tspan>
+</text>
+</svg>

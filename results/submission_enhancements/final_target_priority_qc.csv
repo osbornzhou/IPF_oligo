@@ -1,0 +1,2 @@
+﻿candidate_genes_scored,tier1_genes,genes_with_ml_panel_evidence,genes_with_exact_axis,genes_with_single_cell_evidence,qc1_gene_universe_pass,qc2_score_nonnegative_pass,qc3_tiers_assigned_pass,triple_qc_pass
+288,10,25,3,38,True,True,True,True

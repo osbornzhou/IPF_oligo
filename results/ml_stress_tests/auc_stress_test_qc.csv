@@ -1,0 +1,5 @@
+﻿qc_item,value,pass
+disease_control_scores_include_excluded_nsip_mixed_samples,15,True
+matched_random_iterations,500,True
+nonperfect_cohort_summary_created,GSE150910;GSE92592,True
+cohort_adjusted_score_term_present,True,True

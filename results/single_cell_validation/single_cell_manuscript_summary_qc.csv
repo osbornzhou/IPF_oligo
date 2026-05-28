@@ -1,0 +1,2 @@
+﻿available_expression_datasets,expression_datasets_triple_qc_pass,excluded_dataset,excluded_dataset_reason,target_genes,clean_celltype_delta_rows,clean_celltype_delta_requires_min_ipf_control_cells,cleaning_rule,manuscript_summary_qc_pass
+2,GSE135893;GSE136831,GSE122960,cell-level expression matrix not available locally,59,3855,20,"exclude Multiplet, Outlier, MT-tRNAs, and CellCycle-labeled fine cell types",True

@@ -1,0 +1,2 @@
+﻿robust_mirna_candidates,robust_mrna_candidates,mirtarbase_human_rows,matched_mti_rows_for_candidate_mirnas,negative_direction_axes,exact_negative_direction_axes,unique_candidate_mirnas_in_axes,unique_target_genes_in_axes,target_database,negative_direction_rule
+10,280,683113,7936,22,3,5,16,miRTarBase 2025 v10 hsa_MTI.csv,miRNA and mRNA discovery logFC have opposite signs

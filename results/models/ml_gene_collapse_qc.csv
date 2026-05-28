@@ -1,0 +1,6 @@
+﻿series_id,expression_features,mapped_feature_rows,unique_gene_symbols,multi_probe_genes,collapse_rule
+GSE32537,11950,10886,9928,958,highest within-dataset variance per gene symbol
+GSE110147,33297,25293,23307,1986,highest within-dataset variance per gene symbol
+GSE150910,18838,15517,15517,0,highest within-dataset variance per gene symbol
+GSE53845,41000,30936,19595,11341,highest within-dataset variance per gene symbol
+GSE92592,23398,17911,17890,21,highest within-dataset variance per gene symbol

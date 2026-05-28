@@ -1,0 +1,2 @@
+﻿analysis,status,reason,manuscript_interpretation
+paired GSE32537 mRNA and GSE32538 miRNA inverse correlation,not_attempted,"No explicit shared donor identifier was available in curated metadata; GEO sample accessions differ between mRNA and miRNA series, so ordinal matching was not used.",miRNA-mRNA relationships are interpreted at cohort/target-set level rather than paired donor correlation level.
